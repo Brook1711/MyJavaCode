@@ -18,10 +18,10 @@ public class DivideJudge
 		int c=56;
 		int d=c++;
 		System.out.println("c="+(--c)+";"+"c++="+d);
-		/*
+		
 		int e=3;
 		int f=++(++e)--;
 		System.out.println("++(++3)--="+f);
-		*/
+		
 	}
 }
